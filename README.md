@@ -1,3 +1,10 @@
+### PokeDex Application
+
+This a small application which shows pokemon cards with basic stats and information.
+The consumed API has the endpoint https://pokeapi.co/
+
+In order to start the project run `npm install` and then cd into _src_ folder and run `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
